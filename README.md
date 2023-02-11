@@ -1,7 +1,7 @@
 <h1 align="center">UI Figma Jam</h1>
 
 <p align="center">
-  A whiteboard for idea notes based on Figma Jam.
+  This project is an idea-notation platform inspired by Figma Jam. It allows you to organize and keep track of your ideas and concepts in an organized and easy-to-use virtual space.
 </p>
 
 <p align="center">
